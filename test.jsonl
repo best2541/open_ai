@@ -1,0 +1,10 @@
+[
+    {
+        "name":"pawat",
+        "good":true
+    },
+    {
+        "name":"wong",
+        "good":false
+    }
+]
